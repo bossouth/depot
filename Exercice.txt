@@ -2,3 +2,12 @@ Enoncé de l'Exo
 
 On considère un élève avec un nom et une note entre 0 et 20. 
 On souhaite afficher s'il est admis ou recalé.
+
+Rappel des mentions :
+- 0 : Eliminé(e)
+- ]0-8[ : Echec
+- [8-10[ : Rattrapage
+- [10-12[ : Passable
+- [12-14[ : Assez Bien
+- [14-16[ : Bien
+- [16-20] : TB
