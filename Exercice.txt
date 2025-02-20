@@ -1,1 +1,4 @@
 Enoncé de l'Exo
+
+On considère un élève avec un nom et une note entre 0 et 20. 
+On souhaite afficher s'il est admis ou recalé.
